@@ -5,7 +5,7 @@ using namespace std;
 
 int main() { 
     // Menginisiasi variabel input
-    int a, b, c; 
+    double a, b, c; 
     double d, x1, x2; 
 
     // Input nilai a, b, dan c
